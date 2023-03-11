@@ -23,8 +23,8 @@ Cuando inicie aprendí nociones de php muy vagas, lo demás lo aprendí en YouTu
 - Express.js
 - Postgsql
 - Sequelize
-- Git**
-- PHP**
+- Git
+- PHP
 - HTML
 - CSS
 - Mq4
