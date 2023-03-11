@@ -1,4 +1,4 @@
-# Hello! My name is Mikhail Baez.
+# 👋 Hello! My name is Mikhail Baez.
 
 ## **Who I am?**
 I am a ***Fullstack*** programmer who finds himself always learning new technologies for creating applications.
