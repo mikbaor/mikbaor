@@ -1,6 +1,6 @@
-# Hola! Mi nombre es Mikhail Báez##
+# Hola! Mi nombre es Mikhail Báez
 
-**¿Quién soy?**
+# **¿Quién soy?**
 Soy un programador ***Fullstack*** que se encuentra que siempre se encuentra aprendiendo nuevas tecnologías para la creación de aplicaciones.
 
 Desde pequeño siempre le tuve un interés a la programación. Mi primer lenguaje que vi nociones de programación fue Php. Pero lo que hizo tomármelo de manera más seria fue cuando conocí Mq4.
