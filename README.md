@@ -9,7 +9,7 @@ Since I was little I always had an interest in programming. My first programming
 
 I am currently dedicated to carrying out projects that allow me to advance my training as a programmer. **I believe that people's daily lives can always be improved or facilitated with code**.
 
-## **What goals do I have?**
+## ⭐ **What goals do I have?**
 I would like to create projects that change the current paradigms for solving problems that were thought to have been solved.
 
 I find it quite motivating to see the demand for programmers that are sought today, in my opinion we are creating a new world that is also full of opportunities.
