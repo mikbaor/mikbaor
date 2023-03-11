@@ -1,21 +1,21 @@
-# Hola! Mi nombre es Mikhail Báez
+# Hello! My name is Mikhail Baez.
 
-## **¿Quién soy?**
-Soy un programador ***Fullstack*** que se encuentra que siempre aprendiendo nuevas tecnologías para la creación de aplicaciones.
+## **Who I am?**
+I am a ***Fullstack*** programmer who finds himself always learning new technologies for creating applications.
 
-Desde pequeño siempre le tuve un interés a la programación. Mi primer lenguaje que vi nociones de programación fue Php. Pero lo que hizo tomármelo de manera más seria fue cuando conocí Mq4.
+Since I was little I always had an interest in programming. My first programming language that I saw was Php. But what made me take it more seriously was when I was introduced to Mq4.
 
-## **¿Qué hago?**
+## **What I do?**
 
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. **Creo que siempre se puede mejorar o facilitar la vida cotidiana de las personas con código**.
+I am currently dedicated to carrying out projects that allow me to advance my training as a programmer. **I believe that people's daily lives can always be improved or facilitated with code**.
 
-## **¿Qué objetivos tengo?**
-Quisiera crear proyectos que cambien los paradigmas actuales para la resolución de problemas que se creían ya resueltos
+## **What goals do I have?**
+I would like to create projects that change the current paradigms for solving problems that were thought to have been solved.
 
-Me resulta bastante motivador ver la demanda de programadores que se buscan hoy en día, en mi opinión estamos creando un nuevo mundo que además está lleno de oportunidades.
+I find it quite motivating to see the demand for programmers that are sought today, in my opinion we are creating a new world that is also full of opportunities.
 
-## **¿Qué tecnologías uso?**
-Cuando inicie aprendí nociones de php muy vagas, lo demás lo aprendí en YouTube, plataformas de aprendizaje onDemand como udemy pero lo que realmente me dio el impulso y el entendimiento fue tomar el Bootcamp en Henry, ya que me ha permitido adquirir experiencia fundamental para despegar. Eso me ha motivado a continuar aprendiendo y ahora estoy avanzando para obtener un certificado profesional en IBM. Las tecnologías que manejo son:
+## **What technologies do I use?**
+When I started I learned very vague notions of php, the rest I learned on YouTube, onDemand learning platforms such as udemy but what really gave me the impulse and understanding was taking the Bootcamp at Henry, since it has allowed me to gain fundamental experience to take off . That has motivated me to continue learning and now I am moving towards a professional certificate at IBM. The technologies I manage are:
 
 - JavaScript
 - React.js
@@ -30,12 +30,12 @@ Cuando inicie aprendí nociones de php muy vagas, lo demás lo aprendí en YouTu
 - Mq4
 - Python
 
-Entre otras herramientas, también tengo conocimiento en **Phothoshop** y **Figma** para el diseño visual del material
+Among other tools, I also have knowledge in **Photoshop** and **Figma** for the visual design of the material
 
-**No dudes en contactarme!**
+**Do not hesitate to contact me!**
 
-Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas
+Together we can carry out a great project that changes the lives of thousands of people
 
 [Linekdin](https://www.linkedin.com/in/sergio-mikhail-baez-ortega-613253237/)
 
-Correo: mikbaor@gmail.com
+email: mikbaor@gmail.com
