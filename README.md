@@ -1,6 +1,6 @@
 # 👋 Hello! My name is Mikhail Baez.
 
-## 🙋 **Who I am?**
+## 🙋🏻‍♂️**Who I am?**
 I am a ***Fullstack*** programmer who finds himself always learning new technologies for creating applications.
 
 Since I was little I always had an interest in programming. My first programming language that I saw was Php. But what made me take it more seriously was when I was introduced to Mq4.
