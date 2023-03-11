@@ -5,7 +5,7 @@ I am a ***Fullstack*** programmer who finds himself always learning new technolo
 
 Since I was little I always had an interest in programming. My first programming language that I saw was Php. But what made me take it more seriously was when I was introduced to Mq4.
 
-## **What I do?**
+## 👨🏻‍💻 **What I do?**
 
 I am currently dedicated to carrying out projects that allow me to advance my training as a programmer. **I believe that people's daily lives can always be improved or facilitated with code**.
 
