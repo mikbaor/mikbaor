@@ -18,14 +18,14 @@ Me resulta bastante motivador ver la demanda de programadores que se buscan hoy 
 Cuando inicie aprendí nociones de php muy vagas, lo demás lo aprendí en YouTube, plataformas de aprendizaje onDemand como udemy pero lo que realmente me dio el impulso y el entendimiento fue tomar el Bootcamp en Henry, ya que me ha permitido adquirir experiencia fundamental para despegar. Eso me ha motivado a continuar aprendiendo y ahora estoy avanzando para obtener un certificado profesional en IBM. Las tecnologías que manejo son:
 
 
-**- JavaScript**
-**- React.js**
-**- Node.js**
-**- Express.js**
-**- Postgsql**
-**- Sequelize**
-**- Git**
-**- PHP**
+** - JavaScript**
+** - React.js**
+** - Node.js**
+** - Express.js**
+** - Postgsql**
+** - Sequelize**
+** - Git**
+** - PHP**
 - HTML
 - CSS
 - Mq4
